@@ -1,0 +1,12 @@
+.container .text {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Pode ser feito também sem a classe puxando o seletor de elemento:
+div p 
+div .text 
+.container p
+*/
